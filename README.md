@@ -1,4 +1,4 @@
-## wlc to my github, guys! ![Profile views](https://gpvc.arturio.dev/scarletshroud) 
+## welcome to my github! ![Profile views](https://gpvc.arturio.dev/scarletshroud) 
 
 I am a third-year student at ITMO University in the field of system and application software engineering. I am interested in backend development, low-level programming and game development. In addition to my studies, I am currently working on several personal projects.
 
