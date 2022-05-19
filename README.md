@@ -26,8 +26,10 @@ I am a third-year student at ITMO University in the field of system and applicat
 
 
 ### Some Stats:
-<div align="left">
+<div align="center">
     <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=scarletshroud&theme=react&layout=compact"/>
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=scarletshroud&show_icons=true&theme=react&count_private=true&layout=compact)
+<div align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=scarletshroud&show_icons=true&theme=react&count_private=true&layout=compact"/>
+</div>
