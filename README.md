@@ -32,7 +32,3 @@
 <div align="left">
     <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=scarletshroud&theme=react&layout=compact"/>
 </div>
-
-<div align="left">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=scarletshroud&show_icons=true&theme=react&count_private=true&layout=compact"/>
-</div>
