@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/UtoFYwNd8cHXmbt7WE/giphy-downsized-large.gif" width="300" height="300"/>
 </div>
 
-<h3 align="center"> I am a third-year student at ITMO University in the field of system and application software engineering. I am interested in backend, low-level programming and game development. In addition to my studies, I am currently working on several personal projects. </h3>
+<h3 align="center"> I am a fourth-year student at ITMO University in the field of system and application software engineering. I am interested in backend development, low-level and embedded programming.</h3>
 
 ### Contacts:
 [<img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg' alt='gmail' height='30'>](ezinovichev@gmail.com) 
