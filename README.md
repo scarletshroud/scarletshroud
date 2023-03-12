@@ -1,9 +1,5 @@
 <h2 align="center"> welcome to my profile! </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/UtoFYwNd8cHXmbt7WE/giphy-downsized-large.gif" width="300" height="300"/>
-</div>
-
 <h3 align="center"> I am a fourth-year student at ITMO University in the field of system and application software engineering. I am interested in backend development, low-level and embedded programming.</h3>
 
 ### Contacts:
